@@ -13,6 +13,8 @@ export const PROJECTS = [
     description:
       "LeadCentral is an app designed to streamline lead management and sales processes by centralizing and automating lead capture, tracking, and follow-up.",
     technologies: ["HTML", "CSS", "JavaScript", "Flutter", "Firebase"],
+    link: "https://example.com/leadcentral",
+    repoLink: "https://github.com/yourusername/leadcentral"
   },
   {
     title: "Task Management App",
@@ -20,13 +22,17 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    link: "https://example.com/taskmanagement",
+    repoLink: "https://github.com/yourusername/taskmanagement"
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://git-kirants.github.io/firsttime-webdev/",
+    repoLink: "https://github.com/git-kirants/firsttime-webdev"
   },
   {
     title: "Blogging Platform",
@@ -34,8 +40,11 @@ export const PROJECTS = [
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
     technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    link: "https://example.com/bloggingplatform",
+    repoLink: "https://github.com/yourusername/bloggingplatform"
   },
 ];
+
 
 export const CONTACT = {
   address: "Thattaruparmabil House, Nellayi P.O ",
