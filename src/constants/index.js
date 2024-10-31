@@ -1,7 +1,7 @@
 import project1 from "../assets/projects/project-1.png";
-import project2 from "../assets/projects/project-2.jpg";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
+import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I'm an enthusiastic web developer with a strong foundation in front-end and back-end technologies. I'm passionate about building user-friendly and functional web applications.  I've been actively honing my skills through projects in HTML, CSS, JavaScript, React, Flutter, Firebase, and Python.  I'm eager to gain real-world experience and contribute to innovative projects.`;
 
@@ -17,31 +17,31 @@ export const PROJECTS = [
     repoLink: "https://github.com/yourusername/leadcentral"
   },
   {
-    title: "Task Management App",
+    title: "InfiniaPuzzler",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-    link: "https://example.com/taskmanagement",
-    repoLink: "https://github.com/yourusername/taskmanagement"
+      "An website for clue for the tressure hunt event organised by the ieee called Infinia 2024.",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    link: "https://puzzlerjigsaw.vercel.app/",
+    repoLink: "https://github.com/git-kirants/puzzlerjigsaw"
   },
   {
-    title: "Portfolio Website",
+    title: "Report Card Generator",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "JavaScript"],
-    link: "https://git-kirants.github.io/firsttime-webdev/",
-    repoLink: "https://github.com/git-kirants/firsttime-webdev"
+      "Freelancer website for an institution to generate report cards for the students.*Temporarily down for maintenance*",
+    technologies: ["HTML", "CSS", "Python","Docker","Render"],
+    link: "https://git-kirants.github.io/testreport/",
+    repoLink: "https://github.com/git-kirants/testreport"
   },
   {
-    title: "Blogging Platform",
+    title: "FileOraganizer",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-    link: "https://example.com/bloggingplatform",
-    repoLink: "https://github.com/yourusername/bloggingplatform"
+      "Made a python script to organize the files in the directory and automatically organize future downloads.",
+    technologies: ["Python","Flask","Watchdog"],
+    link: "https://github.com/git-kirants/File-Oraganization-Automations",
+    repoLink: "https://github.com/git-kirants/File-Oraganization-Automations"
   },
 ];
 
