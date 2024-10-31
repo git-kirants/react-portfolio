@@ -13,8 +13,8 @@ export const PROJECTS = [
     description:
       "LeadCentral is an app designed to streamline lead management and sales processes by centralizing and automating lead capture, tracking, and follow-up.",
     technologies: ["HTML", "CSS", "JavaScript", "Flutter", "Firebase"],
-    link: "https://example.com/leadcentral",
-    repoLink: "https://github.com/yourusername/leadcentral"
+    link: "https://github.com/git-kirants/LeadCentral",
+    repoLink: "https://github.com/git-kirants/LeadCentral"
   },
   {
     title: "InfiniaPuzzler",
